@@ -1,0 +1,2 @@
+from .DeepFittingNet import DeepFittingNet
+
